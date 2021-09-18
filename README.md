@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Joseph Miller
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on open web dev related projects.
+- 💞️ I’m looking to collaborate on open source web dev related projects.
 - 📫 How to reach me https://MichaelJosephMiller.github.io
 
 <!---
